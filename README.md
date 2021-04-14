@@ -334,4 +334,4 @@ Hint
 
 `$setIntersection` - Takes two or more arrays and returns an array that contains the elements that appear in every input array.
 
-Answer: 1597
+Answer: 1596
